@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdul Mughni and working as a front-end-developer in Vvork Cloud Technologies
+- 👋 Hi, I’m Abdul Mughni and working as a AI-developer in JobLogic
 - 👀 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with other content creators
